@@ -28,4 +28,5 @@
 
 <div> <h3>Projects</h3>
 <a href="https://ecomtemp-beryl.vercel.app/">Fully responsive Landing page of E-Commerce</a>
+<a href="https://github.com/Rishurajgautam24/ShapeAI_Machine_Learning_Project">ShapeAI_Machine_Learning_Project</a>
 </div>
