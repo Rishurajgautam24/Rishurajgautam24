@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning **Data Science and ML**
 
 <h3 align="left">Connect with me:</h3>
+<br>
+Linktree - <a href="https://linktr.ee/rishurajgautam">Click Here </a> <br>
 <p align="left">
 <a href="https://linkedin.com/in/rishurajgautam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishurajgautam" height="30" width="40" /></a>
 <a href="https://fb.com/rishu.rajgautam56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rishu.rajgautam56" height="30" width="40" /></a>
