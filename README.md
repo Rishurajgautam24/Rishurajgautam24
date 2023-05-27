@@ -30,6 +30,8 @@ Linktree - <a href="https://linktr.ee/rishurajgautam">Click Here </a> <br> <br> 
 
 <div> <h3>Projects</h3>
 1. <a href="https://ecomtemp-beryl.vercel.app/">Fully responsive Landing page of E-Commerce</a> <br>
-2. <a href="https://github.com/Rishurajgautam24/Extracting_and_Visualizing_Stock-Data">Extracting_and_Visualizing_Stock-Data</a> <br>
-3. <a href="https://github.com/Rishurajgautam24/QR_CODE_GENERATOR"> QR-Code Generator Using Python </a>
+2. <a href="https://github.com/Rishurajgautam24/Data_Scientist_Salary_Analysis">Data Scientists Salary Analysis</a> <br>
+3. <a href="https://github.com/Rishurajgautam24/Extracting_and_Visualizing_Stock-Data">Extracting_and_Visualizing_Stock-Data</a> <br>
+4. <a href="https://github.com/Rishurajgautam24/QR_CODE_GENERATOR"> QR-Code Generator Using Python </a>
+ 
 </div>
