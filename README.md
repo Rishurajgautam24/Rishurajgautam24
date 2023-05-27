@@ -1,6 +1,6 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)]
 <h1 align="center">Hi 👋, I'm Rishu Raj Gautam</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and Data Analyst from India</h3>
 <img align="center" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishurajgautam24&label=Profile%20views&color=0e75b6&style=flat" alt="rishurajgautam24" /> </p>
