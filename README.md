@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Data Science and ML**
 - 💬 Ask me about **Web Development, Python, and Machine Learning**
-- 📫 How to reach me **rishu.rajgautam@example.com**
-- ⚡ Fun fact **I love to play chess and solve puzzles**
+- 📫 How to reach me **rishujob24@gmail.com**
+- ⚡ Fun fact **I love to listen music and socialize with people**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -56,7 +56,8 @@
 
 <h3 align="left">My Projects:</h3>
 <ul>
-  <li><a href="https://github.com/rishurajgautam24/project1">Project 1</a> - Description of project 1</li>
-  <li><a href="https://github.com/rishurajgautam24/project2">Project 2</a> - Description of project 2</li>
-  <li><a href="https://github.com/rishurajgautam24/project3">Project 3</a> - Description of project 3</li>
+  <li><a href="https://github.com/Rishurajgautam24/Chat-Application-LLAMA3.git">Chat-Application-LLAMA3
+</a> - A simple Chatbot Assistant</li>
+  <li><a href="https://github.com/Rishurajgautam24/Movie_recommender_system.git">Movie_recommender_system</a> - The system suggests movies similar to a given input movie based on their descriptions and genres.</li>
+  <li><a href="https://github.com/Rishurajgautam24/Essay-x-Poem-Writer-Using-LLAMA-3.git">Essay-x-Poem-Writer-Using-LLAMA-3</a> - This project implements a simple API server using FastAPI to interact with a language model from LangChain (LLAMA3) and a Streamlit-based GUI for generating essays and poems.</li>
 </ul>
