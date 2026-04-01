@@ -1,6 +1,6 @@
 [![MasterHead](https://www.internetcreation.net/wp-content/uploads/2015/04/banner-web-development.png)](https://rishurajgautam.com)
 <h1 align="center">Hi 👋, I'm Rishu Raj Gautam</h1>
-<h3 align="center">A passionate Full Stack Developer and Machine Learning Enthusiast from India, exploring the GenAI field.</h3>
+<h3 align="center">A passionate Data Scientist & Machine Learning Enthusiast from India, exploring the GenAI field.</h3>
 
 <img align="center" alt="Coding" width="400" src="https://i0.wp.com/www.printmag.com/wp-content/uploads/2021/02/4cbe8d_f1ed2800a49649848102c68fc5a66e53mv2.gif?fit=476%2C280&ssl=1">
 
