@@ -14,7 +14,7 @@
 
 ---
 
-I build AI-powered tools that people actually use — from a [viral open-source utility](https://github.com/Rishurajgautam24/free-claude-code) with 215+ stars to on-device ML apps for macOS. I move fast, ship real things, and learn in public.
+I build AI-powered tools that people actually use — from open-source CLI utilities to on-device ML apps for macOS. I move fast, ship real things, and learn in public.
 
 Currently pursuing a BS in Mathematics & Computing at **IIT Madras**, with hands-on experience across LLM applications, ML pipelines, and full-stack development.
 
