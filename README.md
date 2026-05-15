@@ -24,7 +24,6 @@ Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on e
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**free-claude-code**](https://github.com/Rishurajgautam24/free-claude-code) | Use Claude Code for free via terminal, VSCode, or Discord | Python |
 | [**EchoType**](https://github.com/Rishurajgautam24/EchoType) | Push-to-talk voice typing for macOS with on-device Whisper transcription | Swift |
 | [**VoxClone-AI**](https://github.com/Rishurajgautam24/VoxClone-AI) | Multilingual voice cloning application | Python |
 | [**RAG with LLAMA3**](https://github.com/Rishurajgautam24/RAG-Chain-retriever-with-LLAMA3) | Retrieval-augmented generation pipeline using LangChain + LLAMA3 | Python |
