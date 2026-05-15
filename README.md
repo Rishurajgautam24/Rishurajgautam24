@@ -2,7 +2,7 @@
 
 <h1>Rishu Raj Gautam</h1>
 
-<p><strong>Applied AI Engineer · IIT Madras BS (Math & Computing)</strong></p>
+<p><strong>Applied AI Engineer · Open-Source Builder · IIT Madras BS (Math & Computing)</strong></p>
 
 <p>
   <a href="https://linkedin.com/in/rishurajgautam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@
 
 ---
 
-Applied AI Engineer with 1.5 years of industry experience building production AI systems. I ship things that work — from CLI utilities to on-device ML apps for macOS.
+Applied AI Engineer with 1.5 years of industry experience building production AI systems. I ship things that work — from open-source CLI utilities to on-device ML apps for macOS.
 
 Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on experience across LLM applications, ML pipelines, and full-stack development.
 
@@ -62,8 +62,8 @@ Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on e
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishurajgautam24&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishurajgautam24&layout=compact&hide_border=true&langs_count=6" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishurajgautam24&layout=compact&hide_border=true&langs_count=6&cache_seconds=14400" height="155"/>
+  <img src="https://streak-stats.demolab.com?user=Rishurajgautam24&hide_border=true&cache_seconds=14400" height="155"/>
 </p>
 
 ---
