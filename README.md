@@ -2,7 +2,7 @@
 
 <h1>Rishu Raj Gautam</h1>
 
-<p><strong>AI/ML Engineer · Open-Source Builder · IIT Madras BS (Math & Computing)</strong></p>
+<p><strong>Applied AI Engineer · IIT Madras BS (Math & Computing)</strong></p>
 
 <p>
   <a href="https://linkedin.com/in/rishurajgautam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -14,7 +14,7 @@
 
 ---
 
-Applied AI Engineer with 1.5 years of industry experience building production AI systems. I ship things that work — from open-source CLI utilities to on-device ML apps for macOS.
+Applied AI Engineer with 1.5 years of industry experience building production AI systems. I ship things that work — from CLI utilities to on-device ML apps for macOS.
 
 Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on experience across LLM applications, ML pipelines, and full-stack development.
 
