@@ -14,9 +14,9 @@
 
 ---
 
-I build AI-powered tools that people actually use — from open-source CLI utilities to on-device ML apps for macOS. I move fast, ship real things, and learn in public.
+Applied AI Engineer with 1.5 years of industry experience building production AI systems. I ship things that work — from open-source CLI utilities to on-device ML apps for macOS.
 
-Currently pursuing a BS in Mathematics & Computing at **IIT Madras**, with hands-on experience across LLM applications, ML pipelines, and full-stack development.
+Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on experience across LLM applications, ML pipelines, and full-stack development.
 
 ---
 
