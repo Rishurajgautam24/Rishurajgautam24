@@ -25,6 +25,7 @@ Pursuing a BS in Mathematics & Computing at **IIT Madras**, with deep hands-on e
 | Project | Description | Tech |
 |---------|-------------|------|
 | [**EchoType**](https://github.com/Rishurajgautam24/EchoType) | Push-to-talk voice typing for macOS with on-device Whisper transcription | Swift |
+| [**Prompt Engineering Course**](https://github.com/Rishurajgautam24/prompt-engineering-course) | Learn to talk to AI like a pro — on your own laptop, with zero API costs. | Python |
 | [**VoxClone-AI**](https://github.com/Rishurajgautam24/VoxClone-AI) | Multilingual voice cloning application | Python |
 | [**RAG with LLAMA3**](https://github.com/Rishurajgautam24/RAG-Chain-retriever-with-LLAMA3) | Retrieval-augmented generation pipeline using LangChain + LLAMA3 | Python |
 | [**Library Management System**](https://github.com/Rishurajgautam24/Library-Management-System-Full-Stack-App) | Full-stack web app for library management | HTML / JS / Python |
