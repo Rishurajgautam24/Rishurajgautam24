@@ -30,7 +30,6 @@ I am an **Applied AI Engineer** with **1.5+ years of industry experience** build
 
 Currently pursuing a **BS in Data Science & Applications at IIT Madras**, while continuously learning and shipping products.
 
----
 
 # Current Focus
 
@@ -128,7 +127,6 @@ View Repository →
 
 </table>
 
----
 
 # Tech Stack
 
@@ -164,7 +162,6 @@ View Repository →
 
 </div>
 
----
 
 # GitHub Dashboard
 
@@ -174,7 +171,6 @@ View Repository →
 
 </div>
 
----
 
 # Contribution Activity
 
@@ -184,7 +180,6 @@ View Repository →
 
 </div>
 
----
 
 # 2026 Roadmap
 
@@ -200,7 +195,6 @@ View Repository →
 ✓ Publish educational content
 ```
 
----
 
 # Philosophy
 
