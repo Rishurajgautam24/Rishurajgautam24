@@ -1,247 +1,51 @@
-<!-- ================================================ -->
-<!--                RISHU RAJ GAUTAM                   -->
-<!-- ================================================ -->
+<h1 align="center">Rishu Raj Gautam</h1>
+<p align="center"><b>Applied AI Engineer</b> · LLM systems, agents, on-device ML · Pune, India</p>
 
+<p align="center">
+<a href="https://linkedin.com/in/rishurajgautam"><img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:rishujob24@gmail.com"><img src="https://img.shields.io/badge/Email-0A0A0A?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.youtube.com/@myowncampus"><img src="https://img.shields.io/badge/YouTube-@myowncampus-0A0A0A?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+</p>
 
-<div align="center">
+I build AI systems that hold up in production: voice agents, LLM memory and retrieval, and local-first ML apps. I have 1.5+ years of industry experience and I'm doing a BS in Data Science & Applications at **IIT Madras**.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0D0D,50:1C1C1C,100:DA7756&text=RISHU%20RAJ%20GAUTAM&fontColor=F2EDE4&fontSize=50&fontAlignY=38&desc=Applied%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" alt="Rishu Raj Gautam" />
+## What I work on
 
-<br>
+- **Production voice AI.** At **Cevi** I build the platform behind HIPAA-compliant, after-hours AI phone agents for healthcare.
+- **LLM infrastructure.** I work on persistent memory, retrieval and evidence-based recall for agents.
+- **On-device and local AI.** I build Whisper on Apple Silicon and run 7B models through Ollama with no cloud dependency.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=22&duration=3000&pause=1000&color=DA7756&center=true&vCenter=true&width=800&lines=Applied+AI+Engineer;BS+in+Data+Science+and+Applications+at+IIT+Madras;Building+AI+Products;Production+LLM+Applications;BS+in+Math+and+Computing+at+IIT+Madras;Machine+Learning+Engineer;" alt="Typing animation" />
+## Industry work: Cevi AI Phone Agent Platform
 
-<br><br>
+I contribute to the Cevi platform (private repo, 6 merged PRs):
 
-<a href="https://linkedin.com/in/rishurajgautam"><img src="https://img.shields.io/badge/LinkedIn-DA7756?style=for-the-badge&logo=linkedin&logoColor=0D0D0D" alt="LinkedIn" /></a>
-<a href="mailto:rishujob24@gmail.com"><img src="https://img.shields.io/badge/Gmail-DA7756?style=for-the-badge&logo=gmail&logoColor=0D0D0D" alt="Gmail" /></a>
-<a href="https://www.instagram.com/rishu.init/"><img src="https://img.shields.io/badge/Instagram-DA7756?style=for-the-badge&logo=instagram&logoColor=0D0D0D" alt="Instagram" /></a>
-<a href="https://www.youtube.com/@myowncampus"><img src="https://img.shields.io/badge/YouTube-DA7756?style=for-the-badge&logo=youtube&logoColor=0D0D0D" alt="YouTube" /></a>
-<br><br>
-<a href="https://github.com/Rishurajgautam24?tab=followers"><img src="https://img.shields.io/github/followers/Rishurajgautam24?style=for-the-badge&color=DA7756&labelColor=1C1C1C&logo=github&logoColor=F2EDE4&label=Followers" alt="GitHub followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=Rishurajgautam24&style=for-the-badge&color=da7756&label=Profile+Views" alt="Profile views" />
-</div>
+- Built an **admin panel that auto-syncs agent configuration to ElevenLabs** voice agents.
+- Refactored the **agents module** around SOLID principles, with live API data and skeleton loading.
+- Fully rebuilt the **analytics** layer for operational and revenue intelligence.
+- Shipped the **settings** surface (6 sections) and fixed dashboard interactivity.
 
----
+## Selected projects
 
-# Building useful AI products.
+| Project | What it is | Stack |
+|---|---|---|
+| **[Universal Memory System](https://github.com/Rishurajgautam24/universal-memory-system)** | Persistent memory layer for LLM apps. It turns conversations into structured observations, promotes them into confidence-scored beliefs, and recalls them through multi-stage retrieval with a full audit trail. It's model-agnostic and self-hostable. | Python · FastAPI · vector search · knowledge graph |
+| **[EchoType](https://github.com/Rishurajgautam24/EchoType)** | Push-to-talk voice typing for macOS. Whisper transcribes on-device with nothing leaving the machine, and the text is injected into any app. It also has a SQLite-backed clipboard manager with fuzzy search. | Swift · WhisperKit · Apple Silicon |
+| **[GenAI HR Platform](https://github.com/Rishurajgautam24/genai-hr-platform)** | Full-stack HR system with Gemini-powered features: an HR policy chatbot, a job-description generator and career-path recommendations. It has role-based portals for HR, managers and employees. I was lead contributor on a 4-person team. | Flask · Vue 3 · Gemini · SQLAlchemy |
+| **[Agricultural Q&A RAG](https://github.com/Rishurajgautam24/Agricultural-QnA-RAG-System)** | Multilingual RAG over Kisan Call Centre data. It uses LaBSE embeddings and a FAISS index, with similarity thresholding and web-search fallback. Generation runs locally on Gemma 2B. | LangChain · FAISS · Ollama · Streamlit |
+| **[NoteForge](https://github.com/Rishurajgautam24/NoteForge)** | Native macOS notes app that mixes Markdown, LaTeX and Mermaid in a single WYSIWYG document. It stores vaults as plain files and exports to DOCX and PDF. | Tauri (Rust) · React 19 · TipTap · CodeMirror 6 |
+| **[Prompt Engineering Course](https://github.com/Rishurajgautam24/prompt-engineering-course)** | Free 9-chapter course in Jupyter notebooks, plus appendices on chaining, tool use and retrieval. Everything runs locally on a 7B model, and it's the companion to my YouTube series. | Jupyter · Ollama · Qwen/Llama |
 
-I am an **Applied AI Engineer** with **1.5+ years of industry experience** building production AI systems, local LLM applications, machine learning pipelines, and developer tools.
+## Stack
 
-Currently pursuing a **BS in Data Science & Applications at IIT Madras**, while continuously learning and shipping products.
+**AI / ML:** PyTorch · LangChain · LangGraph · RAG (FAISS, embeddings) · Ollama · Whisper · OpenAI / Anthropic / Gemini APIs · ElevenLabs
+**Backend:** Python · FastAPI · Flask · Node.js · PostgreSQL · Prisma · Docker
+**Frontend / apps:** TypeScript · React · Next.js · Vue · Swift · Tauri
+**MLOps:** model training and deployment pipelines (IIT Madras MLOps coursework)
 
+## Teaching
 
-# Current Focus
-
-```yaml
-building:
-  - Production AI Applications
-  - Local LLM Systems
-  - Agentic systems with LLMs
-
-learning:
-  - Agentic AI
-  - Advanced Machine Learning
-  - AI Infrastructure
-  - Architectures at scale
-
-goal:
-  Build software people enjoy using & Ship things people use every day.
-```
+I run **[My Own Campus](https://www.youtube.com/@myowncampus)**, a YouTube channel that teaches prompt engineering and AI agents from scratch. The companion code lives in [prompt-engineering-course](https://github.com/Rishurajgautam24/prompt-engineering-course) and [mycampus-hub](https://github.com/Rishurajgautam24/mycampus-hub).
 
 ---
 
-# Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### 🚀 EchoType
-
-AI Voice Typing for macOS
-
-Swift • Whisper • Offline AI
-
-<a href="https://github.com/Rishurajgautam24/EchoType">
-View Repository →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🧠 Prompt Engineering Course
-
-Learn Prompt Engineering
-
-Run LLMs locally
-
-Zero API costs
-
-<a href="https://github.com/Rishurajgautam24/prompt-engineering-course">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 📺 YouTube Comments RAG
-
-Semantic Search
-
-Vector Database
-
-Local AI
-
-<a href="https://github.com/Rishurajgautam24/YouTube-Comments-Extractor-and-Query-System">
-View Repository →
-</a>
-
-</td>
-
-<td>
-
-### 📚 Library Management
-
-Full Stack Application
-
-Backend
-
-Frontend
-
-<a href="https://github.com/Rishurajgautam24/Library-Management-System-Full-Stack-App">
-View Repository →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
-
-# Tech Stack
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=python,swift,typescript,javascript,java,mysql"/>
-
-<br><br>
-
-### AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ollama-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-
-<br><br>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=fastapi,react,nextjs,tailwind,nodejs"/>
-
-<br><br>
-
-### Dev Tools
-
-<img src="https://skillicons.dev/icons?i=git,docker,linux,vscode,github"/>
-
-</div>
-
-
-# GitHub Dashboard
-
-<div align="center">
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Rishurajgautam24&theme=transparent&hide_border=true"/>
-
-</div>
-
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishurajgautam24&theme=github-compact&hide_border=true"/>
-
-</div>
-
-
-# 2026 Roadmap
-
-```text
-✓ Ship more production AI products
-
-✓ Learn advanced ML systems
-
-✓ Contribute to Open Source
-
-✓ Build AI developer tools
-
-✓ Publish educational content
-```
-
-
-# Philosophy
-
-> Build software that is useful.
->
-> Keep it simple.
->
-> Learn continuously.
->
-> Share knowledge.
->
-> Ship.
-
----
-
-# Let's Connect
-
-<div align="center">
-
-<a href="mailto:rishujob24@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-
-</a>
-
-<a href="https://linkedin.com/in/rishurajgautam">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/Rishurajgautam24">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,24,30"/>
-
-### Thanks for visiting.
-
-**Building useful AI products, one commit at a time.**
-
-</div>
+<p align="center"><sub>Open to Applied AI / ML Engineer roles and collaborations · <a href="mailto:rishujob24@gmail.com">rishujob24@gmail.com</a></sub></p>
